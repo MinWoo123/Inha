@@ -10,7 +10,6 @@ test();
 84
 84
 
-
 1
 4
 4
@@ -22,8 +21,6 @@ test();
 4
 4
 4
-
-
 
 iijijjjj
 jadej
